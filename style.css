@@ -1,0 +1,331 @@
+div{
+	background: LawnGreen url(https://avatars.yandex.net/get-music-content/6447985/12d434bb.a.23258611-1/m1000x1000?webp=false);
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-size: 100%;
+	
+}
+
+h1{
+	color: LightSlateGray;
+	font-style: oblique;
+	text-align: left;
+	font-size: 60px;
+	margin: -10px;
+	margin-left: 50px;
+	
+	
+}
+
+h2{
+	color: MediumBlue;
+	font-style: oblique;
+	text-align: left;
+	font-size: 30px;
+	margin-botton: 30px;
+	line-height: 2px;
+	margin-left: 50px;
+	
+}
+
+img{
+	width: 500px;
+	margin-left: 50px;
+	border: 10px solid SkyBlue;
+	margin-top: 40px;
+	align: right;
+	
+	
+}
+
+img.pivo{
+	width: 500px;
+	margin-left: 50px;
+	border: 10px solid SkyBlue;
+	margin-top: 40px;
+	align: right;
+
+	
+}
+
+h3{
+	color: LightSlateGray;
+	font-style: normal;
+	font-size: 45px;
+	align: top;
+	text-align: left;
+	float: right;
+	margin-right: 480px;
+	
+	
+}	
+
+img.albom{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 550px;
+	margin-top: -270px;
+}
+
+img.albom1{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 400px;
+	margin-top: -270px;
+}
+
+img.albom2{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 250px;
+	margin-top: -270px;
+}
+
+img.albom3{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 100px;
+	margin-top: -270px;
+}
+
+img.albom4{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 550px;
+	margin-top: -120px;
+}
+
+img.albom5{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 400px;
+	margin-top: -120px;
+}
+
+img.albom6{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 250px;
+	margin-top: -120px;
+}
+
+img.albom7{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 100px;
+	margin-top: -120px;
+}
+
+img.albom8{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 550px;
+	margin-top: -520px;
+	
+}
+
+img.albom9{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid Gray;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 400px;
+	margin-top: -520px;
+	
+}
+
+img.albom10{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid LightBlue;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 250px;
+	margin-top: -520px;
+	
+}
+
+img.albom11{
+	width: 100px;
+	margin-left: 50px;
+	border: 10px solid LightBlue;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 100px;
+	margin-top: -520px;
+	
+}
+
+p{
+	color: SteelBlue;
+	font-style: oblique;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -1050px;
+	float: right;
+}
+
+p.dad{
+	color: SteelBlue;
+	font-style: oblique;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -1020px;
+	float: right;
+}
+
+p.mom{	
+	color: SteelBlue;
+	font-style: oblique;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -990px;
+	float: right;
+}
+
+img.TL{ 
+	
+	width: 50px;
+	margin-left: 50px;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 100px;
+	margin-top: -100px;
+	border-radius: 50%;
+	
+}
+
+img.MM{
+	width: 50px;
+	margin-left: 50px;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 100px;
+	margin-top: -180px;
+	border-radius: 50%;
+}
+
+img.mem{
+	width: 270px;
+	margin-left: 50px;
+	margin-top: 40px;
+	align: right;
+	float: right;
+	margin-right: 380px;
+	margin-top: -370px;
+	border-radius: 10%;
+}
+
+p.QQ{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -370px;
+	float: right;
+	margin-right: 100px;
+}
+
+p.WW{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -340px;
+	float: right;
+	margin-right: 100px;
+}
+p.Wa{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -320px;
+	float: right;
+	margin-right: 100px;
+}
+
+p.EE{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -290px;
+	float: right;
+	margin-right: 100px;
+}
+
+p.Ea{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -270px;
+	float: right;
+	margin-right: 100px;
+}
+
+p.RR{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -240px;
+	float: right;
+	margin-right: 100px;
+}
+
+p.Ra{
+	color: MediumSlateBlue;
+	font-style: italic;
+	text-align: left;
+	font-size: 17px;
+	margin-top: -220px;
+	float: right;
+	margin-right: 100px;
+}
+
+	
